@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abhinay 👋
 
-<!--
-**abhinaypothu/abhinaypothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | Java | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+I build backend applications and microservices using Java and Spring Boot,
+with a focus on scalable APIs, databases, distributed systems, and
+production-oriented backend engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Java
+- Spring Boot
+- Microservices
+- REST APIs
+- PostgreSQL
+- SQL
+- Git & GitHub
+
+## 🚀 Currently Building
+
+- Real-time event-driven backend with Apache Kafka
+- Production-style microservices
+- Cloud and distributed-system projects
+
+## 📌 Areas of Interest
+
+- Backend Engineering
+- Microservices
+- Distributed Systems
+- Cloud Engineering
+- System Design
+
+## 📫 Connect
+
+- LinkedIn: www.linkedin.com/in/pothuAbhinay
